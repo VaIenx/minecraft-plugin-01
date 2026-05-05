@@ -1,0 +1,8 @@
+name: jamchallanges
+version: '${version}'
+
+main: de.baronvalenx.jamchallanges.Jamchallanges
+api-version: '1.21.11'
+load: POSTWORLD
+
+authors: [ baronblood, valenx ]
