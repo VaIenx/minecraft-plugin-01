@@ -1,0 +1,66 @@
+[17:49:54] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.8+12-LTS-250; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[17:49:54] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-131-ver/1.21.11@6d5b910 (2026-05-03T16:08:07Z) for Minecraft 1.21.11
+[17:49:54] [ServerMain/WARN]: [oshi.driver.windows.perfmon.PerfmonDisabled] Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[17:49:55] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:49:56] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[17:50:02] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 5890ms.
+[17:50:02] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'C:\Users\Baron\IdeaProjects\jamchallanges\build\libs\jamchallanges-1.0-SNAPSHOT-all.jar'...
+[17:50:02] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'C:\Users\Baron\IdeaProjects\jamchallanges\build\libs\jamchallanges-1.0-SNAPSHOT-all.jar' in 135ms.
+[17:50:02] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[17:50:02] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - jamchallanges (1.0-SNAPSHOT)
+[17:50:08] [ServerMain/WARN]: Failed to load eula.txt
+[17:50:08] [ServerMain/ERROR]: You have used the Spigot command line EULA agreement flag.
+[17:50:08] [ServerMain/ERROR]: By using this setting you are indicating your agreement to Mojang's EULA (https://aka.ms/MinecraftEULA).
+[17:50:08] [ServerMain/ERROR]: If you do not agree to the above EULA please stop your server and remove this flag immediately.
+[17:50:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:50:08] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[17:50:08] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[17:50:09] [ServerMain/INFO]: No existing world data, creating new world
+[17:50:10] [ServerMain/INFO]: Loaded 1470 recipes
+[17:50:10] [ServerMain/INFO]: Loaded 1584 advancements
+[17:50:10] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[17:50:11] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 505,2ms
+[17:50:11] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[17:50:11] [Server thread/INFO]: Loading properties
+[17:50:11] [Server thread/INFO]: This server is running Paper version 1.21.11-131-ver/1.21.11@6d5b910 (2026-05-03T16:08:07Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[17:50:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:50:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:50:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:50:12] [Server thread/INFO]: [MoonriseCommon] Paper is using 3 worker threads, 1 I/O threads
+[17:50:12] [Server thread/INFO]: Default game type: SURVIVAL
+[17:50:12] [Server thread/INFO]: Generating keypair
+[17:50:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:50:12] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[17:50:12] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:50:12] [Server thread/INFO]: [jamchallanges] Loading server plugin jamchallanges v1.0-SNAPSHOT
+[17:50:12] [Server thread/INFO]: Preparing level "world"
+[17:50:13] [Server thread/INFO]: Selecting spawn point for world 'minecraft:overworld'...
+[17:50:16] [Server thread/INFO]: Selecting spawn point for world 'minecraft:the_nether'...
+[17:50:17] [Server thread/INFO]: Selecting spawn point for world 'minecraft:the_end'...
+[17:50:17] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[17:50:17] [Server thread/INFO]: Preparing spawn area: 100%
+[17:50:17] [Server thread/INFO]: Prepared spawn area in 4632 ms
+[17:50:17] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[17:50:17] [Server thread/INFO]: Preparing spawn area: 100%
+[17:50:17] [Server thread/INFO]: Prepared spawn area in 1332 ms
+[17:50:17] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[17:50:17] [Server thread/INFO]: Preparing spawn area: 100%
+[17:50:17] [Server thread/INFO]: Prepared spawn area in 209 ms
+[17:50:17] [Server thread/INFO]: Done preparing level "world" (5.102s)
+[17:50:17] [Server thread/INFO]: [jamchallanges] Enabling jamchallanges v1.0-SNAPSHOT
+[17:50:18] [Server thread/INFO]: [spark] Starting background profiler...
+[17:50:18] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[17:50:18] [Server thread/INFO]: Running delayed init tasks
+[17:50:18] [Server thread/INFO]: Done (25.034s)! For help, type "help"
+[17:50:18] [Server thread/INFO]: *************************************************************************************
+[17:50:18] [Server thread/INFO]: This is the first time you're starting this server.
+[17:50:18] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[17:50:18] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[17:50:18] [Server thread/INFO]: *************************************************************************************
+[17:50:18] [Paper Async Task Handler Thread - 1/WARN]: *************************************************************************************
+[17:50:18] [Paper Async Task Handler Thread - 1/WARN]: You are running the latest build for your Minecraft version (1.21.11)
+[17:50:18] [Paper Async Task Handler Thread - 1/WARN]: However, you are 2 release(s) behind the latest stable release (26.1.2)!
+[17:50:18] [Paper Async Task Handler Thread - 1/WARN]: It is recommended that you update as soon as possible
+[17:50:18] [Paper Async Task Handler Thread - 1/WARN]: https://papermc.io/downloads/paper
+[17:50:18] [Paper Async Task Handler Thread - 1/WARN]: *************************************************************************************
